@@ -99,8 +99,8 @@
         <body>
 
 <ul>
-  <li><a class="active" href="web_sejuc.php">Home</a></li>
-  <li><a href="noticias.php">Notícias</a></li>
+  <li><a href="web_sejuc.php">Home</a></li>
+  <li><a class="active" href="noticias.php">Notícias</a></li>
   <li><a href="eventos.php">Eventos</a></li>
   <li><a href="esportes.php">Esportes</a></li>
   <li><a href="cursos.php">Cursos</a></li>

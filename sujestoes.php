@@ -74,9 +74,14 @@
         }
         h3{
         color: black
+            
         }
         p{
         color:black
+        }
+
+        .sugestões{
+            color:black
         }
     </style> 
 </head>
@@ -99,25 +104,24 @@
         <body>
 
 <ul>
-  <li><a class="active" href="web_sejuc.php">Home</a></li>
+  <li><a href="web_sejuc.php">Home</a></li>
   <li><a href="noticias.php">Notícias</a></li>
   <li><a href="eventos.php">Eventos</a></li>
   <li><a href="esportes.php">Esportes</a></li>
   <li><a href="cursos.php">Cursos</a></li>
-  <li><a href="sujestoes.php">Sujestões</a></li>
+  <li><a class="active" href="sugestões.php">Sujestões</a></li>
 </ul>
 
 <div style="margin-left:130px;padding:1px 16px;height:1000px;">
   <h2>Secretaria da juventude e cidadania</h2>
-  <h3>O que nós somos e nossos valores?</h3>
-<p>A Secretaria de Juventude, Cidadania e Migrantes tem como missão coordenar, executar e aprimorar o sistema de gestão das políticas públicas e dos serviços destinados à Juventude, à Cidadania e à População Migrante.</p>
-  <p> Suas ações são fundamentadas nos princípios da participação popular, da descentralização administrativa e do controle social, promovendo uma atuação articulada e democrática.</p>
-   <p> Nesse processo, destaca-se o papel estratégico do Conselho Municipal de Juventude e dos demais Conselhos de Direitos vinculados, que contribuem para a formulação, monitoramento e avaliação das políticas públicas setoriais.</P>
-<p>Entre suas principais atribuições, está o planejamento, a formulação, a orientação e a execução de políticas públicas voltadas à promoção do desenvolvimento humano, à proteção integral, à inclusão social e à integração plena de diversos segmentos historicamente vulnerabilizados. Isso inclui, de forma prioritária, a juventude, os migrantes nacionais e internacionais, as comunidades indígenas, bem como a população negra e outros grupos étnico-raciais.</P>
-<p>Além disso, a Secretaria atua de forma transversal na promoção da igualdade racial, na valorização da diversidade cultural e na prevenção e combate a todas as formas de discriminação, preconceito e violências, reafirmando o compromisso com os direitos humanos, a justiça social e a construção de uma sociedade mais equitativa, plural e inclusiva.</p>
-  
+  <h3>Sugestões</h3>
+  <p>nós da SEJUC prezamos por um bom atendimento aos jovens e estaremos sempre abertos a sugestões dos jovens <p>
+     
+  <div class="sugestões col-md-6 ">
+    <label for="data_entrega" class="form-label">Escreva sua sugestão</label>
+    <input type="text"  placeholder="Ex: Eu gostaria que fosse desponibizados..." >
 </div>
-
+</div>
 </body>
         </div>    
     </div>

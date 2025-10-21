@@ -55,9 +55,11 @@ p{
 
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="noticias.php">Notícias</a></li>
+  <li><a href="eventos.php">Eventos</a></li>
+  <li><a href="esportes.php">Esportes</a></li>
+  <li><a href="cursos.php">Cursos</a></li>
+  <li><a href="sujestoes.php">Sujestões</a></li>
 </ul>
 
 <div style="margin-left:130px;padding:1px 16px;height:1000px;">
