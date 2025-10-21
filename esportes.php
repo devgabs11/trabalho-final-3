@@ -110,12 +110,14 @@
 <div style="margin-left:130px;padding:1px 16px;height:1000px;">
   <h2>Secretaria da juventude e cidadania</h2>
   <h3>O que nós somos e nossos valores?</h3>
-<p>A Secretaria de Juventude, Cidadania e Migrantes tem como missão coordenar, executar e aprimorar o sistema de gestão das políticas públicas e dos serviços destinados à Juventude, à Cidadania e à População Migrante.</p>
-  <p> Suas ações são fundamentadas nos princípios da participação popular, da descentralização administrativa e do controle social, promovendo uma atuação articulada e democrática.</p>
-   <p> Nesse processo, destaca-se o papel estratégico do Conselho Municipal de Juventude e dos demais Conselhos de Direitos vinculados, que contribuem para a formulação, monitoramento e avaliação das políticas públicas setoriais.</P>
-<p>Entre suas principais atribuições, está o planejamento, a formulação, a orientação e a execução de políticas públicas voltadas à promoção do desenvolvimento humano, à proteção integral, à inclusão social e à integração plena de diversos segmentos historicamente vulnerabilizados. Isso inclui, de forma prioritária, a juventude, os migrantes nacionais e internacionais, as comunidades indígenas, bem como a população negra e outros grupos étnico-raciais.</P>
-<p>Além disso, a Secretaria atua de forma transversal na promoção da igualdade racial, na valorização da diversidade cultural e na prevenção e combate a todas as formas de discriminação, preconceito e violências, reafirmando o compromisso com os direitos humanos, a justiça social e a construção de uma sociedade mais equitativa, plural e inclusiva.</p>
-  
+    <p>A Secretaria da Juventude e Cidadania oferece diversas modalidades esportivas para jovens de todas as<p>
+    <p>idades. O objetivo é incentivar hábitos saudáveis, a integração social e o desenvolvimento pessoal por meio<p>
+    <p>do esporte.<p>
+      <br>
+    <p>As atividades são gratuitas e promovem valores como respeito, trabalho em equipe e superação. Além das<p>
+    <p>práticas regulares, a SEJUC realiza torneios e eventos esportivos que aproximam os jovens da comunidade.<p>
+        <br>
+    <p>O esporte é mais que lazer — é cidadania, inclusão e oportunidade!<p>                
 </div>
 
 </body>

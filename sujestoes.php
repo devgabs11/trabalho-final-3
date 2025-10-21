@@ -83,6 +83,9 @@
         .sugestões{
             color:black
         }
+        .placeholder{
+            
+        }
     </style> 
 </head>
 
@@ -115,12 +118,20 @@
 <div style="margin-left:130px;padding:1px 16px;height:1000px;">
   <h2>Secretaria da juventude e cidadania</h2>
   <h3>Sugestões</h3>
-  <p>nós da SEJUC prezamos por um bom atendimento aos jovens e estaremos sempre abertos a sugestões dos jovens <p>
-     
-  <div class="sugestões col-md-6 ">
-    <label for="data_entrega" class="form-label">Escreva sua sugestão</label>
-    <input type="text"  placeholder="Ex: Eu gostaria que fosse desponibizados..." >
-</div>
+  <p>Nós, da Secretaria da Juventude e Cidadania (SEJUC), acreditamos que ouvir os jovens é essencial para <p>
+  <p>construir políticas públicas mais justas, eficientes e participativas. Prezamos por um atendimento de<p>
+  <p>qualidade, com respeito, empatia e compromisso com o bem-estar de todos.<p>
+    
+  <p>estamos sempre abertos a sugestões, ideias e opiniões que possam contribuir para melhorar nossos<p>
+  <p>projetos, eventos e serviços. Acreditamos que cada jovem tem muito a acrescentar, e é com a colaboração<p>
+  <p>de todos que conseguimos evoluir e atender melhor às reais necessidades da juventude.<p>
+    <br>
+  <p>Participe, compartilhe suas ideias e ajude a construir uma SEJUC cada vez mais próxima dos jovens e<p>
+  <p>conectada com o futuro!<p>              
+  <div>   
+    <input type="text" placeholder="Ex: Eu gostaria que fosse disponibilizados..." 
+    style="width: 900px; height: 100px;">
+    </div>      
 </div>
 </body>
         </div>    
