@@ -54,6 +54,14 @@
             height: 25px;
             width: 100%;
         }
+
+        .curso-imagem {
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
     </style>
 </head>
 
@@ -78,6 +86,8 @@
         <h2>Secretaria da Juventude e Cidadania</h2>
         <h3>Cursos</h3>
 
+        <!-- IMAGEM INSERIDA AQUI -->
+
         <p>
             A Secretaria da Juventude e Cidadania oferece diversos cursos gratuitos voltados à formação pessoal e profissional dos jovens.
             Nosso objetivo é proporcionar oportunidades de aprendizado que ampliem o acesso ao mercado de trabalho e incentivem o desenvolvimento de novas habilidades.
@@ -94,6 +104,9 @@
         <p>
             A SEJUC acredita que a educação é a base da transformação social e, por isso, investe constantemente em programas que fortalecem o protagonismo e o futuro dos jovens.
         </p>
+    </div>
+    <div>
+    <img src="imagens/curso_banner.png.png" alt="Banner dos cursos SEJUC" class="curso-imagem">
     </div>
 </body>
 </html>

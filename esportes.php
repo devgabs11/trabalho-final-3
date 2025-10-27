@@ -110,6 +110,7 @@
 <div style="margin-left:130px;padding:1px 16px;height:1000px;">
   <h2>Secretaria da juventude e cidadania</h2>
   <h3>O que nós somos e nossos valores?</h3>
+
     <p>A Secretaria da Juventude e Cidadania oferece diversas modalidades esportivas para jovens de todas as<p>
     <p>idades. O objetivo é incentivar hábitos saudáveis, a integração social e o desenvolvimento pessoal por meio<p>
     <p>do esporte.<p>
@@ -120,6 +121,9 @@
     <p>O esporte é mais que lazer — é cidadania, inclusão e oportunidade!<p>                
 </div>
 
+        <div>
+        <img src="imagens/esportes.png.png" alt="Banner dos esportes SEJUC" style="width:100%; max-width:800px; display:block; margin:20px auto; border-radius:10px;">
+        </div>
 </body>
         </div>    
     </div>

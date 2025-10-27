@@ -95,5 +95,8 @@
             Com atividades em diferentes regiões, buscamos tornar os eventos acessíveis a todos, promovendo cidadania, cultura e oportunidades para o futuro.
         </p>
     </div>
+    <div>
+        <img src="imagens/eventos.png" alt="Banner dos esportes SEJUC" style="width:100%; max-width:800px; display:block; margin:20px auto; border-radius:10px;">
+        </div>
 </body>
 </html>
